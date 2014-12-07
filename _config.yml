@@ -1,0 +1,18 @@
+# Site settings
+title: Heroineku
+email: sherah@heroineku.com
+description: "it's a coOl internat site ."
+username: Sherah
+name: Heroineku
+baseurl: ""
+url: "http://heroineku.com"
+version: "0.1"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Glynn
+ftp_host: 'heroineku.com/'
+ftp_dir: '/'
+ftp_passive: false
